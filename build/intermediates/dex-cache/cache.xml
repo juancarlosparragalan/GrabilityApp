@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/juancarlosparragalan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/juancarlosparragalan/Documents/Apps/My_Grability_App/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-77ff4ac108c50e4dc2bd93958f6fbeef3b32cbf2.jar" />
+    </item>
+    <item
+        jar="/Users/juancarlosparragalan/Documents/Apps/My_Grability_App/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/juancarlosparragalan/Documents/Apps/My_Grability_App/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3505a9aaa51e03b25492f6777537b13848e33ba0.jar" />
+    </item>
+    <item
+        jar="/Users/juancarlosparragalan/Documents/Apps/My_Grability_App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/juancarlosparragalan/Documents/Apps/My_Grability_App/app/build/intermediates/pre-dexed/debug/classes-f359b94f49e23b8fba6dda0159677fb8ca7e46e6.jar" />
+    </item>
+    <item
+        jar="/Users/juancarlosparragalan/Documents/Apps/My_Grability_App/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/juancarlosparragalan/Documents/Apps/My_Grability_App/app/build/intermediates/pre-dexed/debug/classes-b4510b35f3d3c53658c8e4ea326ceddf3031bc46.jar" />
+    </item>
+
+</items>
